@@ -1,25 +1,12 @@
 # Session 1
 
-![0.mwp71v173u](images/0.mwp71v173u?raw=true)
+
+![0.mwp71v173u](images/0.mwp71v173u)
 
 ----
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 >Welcome Everyone!
 >
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **Perface? Sort of!**
 1. We received staggering 660+ application for this EIP
@@ -32,24 +19,12 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **Administrative Stuff:**
 1. Make sure you have a Google Colab Account
 2. Make sure you are there on main WhatsApp group. Please keep this group "Mute" as people are posting random stuff. 
 3. Please join our Discourse forum, hosted at mlblr.com/discourse to discuss about topics 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -64,22 +39,10 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Let's get started
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -90,31 +53,9 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Building the Intuition!
 
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -126,12 +67,6 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## EYES
 
@@ -139,32 +74,14 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-![image](http://3.bp.blogspot.com/-Elau01j_Uy8/VnWucwCsm_I/AAAAAAAALEs/03zy4R_sAoI/s1600/CrossSection.JPG =500x)
+![image](http://3.bp.blogspot.com/-Elau01j_Uy8/VnWucwCsm_I/AAAAAAAALEs/03zy4R_sAoI/s1600/CrossSection.JPG)
 
 >Light to Neurons
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -173,34 +90,15 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 >This is where image to RGB/GrayScale convesion ends!
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 ## BORED CAT EXPERIMENT
 
-![bored cat](http://gif-finder.com/wp-content/uploads/2015/12/Bored-cat.gif =500x)
+![bored cat](http://gif-finder.com/wp-content/uploads/2015/12/Bored-cat.gif)
 
 ![bored cat2](https://media.giphy.com/media/5gUnOrltPvZzW/giphy.gif)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -208,75 +106,29 @@
 ![red](http://fourier.eng.hmc.edu/e180/lectures/figures/retinotopicmap.gif)
 > Radioactive Glucose
 > 
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 Retinotopic Map
 
-![map](https://www.researchgate.net/profile/Daniel_Simons2/publication/7994860/figure/fig3/AS:279070249111558@1443546940146/Subcortical-visual-pathwayConverging-neuroscientific-evidence-indicates-that-there-is-a.png =400x)
+![map](https://www.researchgate.net/profile/Daniel_Simons2/publication/7994860/figure/fig3/AS:279070249111558@1443546940146/Subcortical-visual-pathwayConverging-neuroscientific-evidence-indicates-that-there-is-a.png)
 
-![cortical magnification](http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide12.jpg =500x)
+![cortical magnification](http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide12.jpg)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 Edge Detection
-![poorcat](http://www.utdallas.edu/~tres/integ/sen4/8_05.jpg =300x)
+![poorcat](http://www.utdallas.edu/~tres/integ/sen4/8_05.jpg)
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 
 ## Coretex Processing
 
-![cortex](http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png =600x)
+![cortex](http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png?raw=true)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -284,30 +136,9 @@ Edge Detection
 ![image.gif](images/image.gif)
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-![detailed](https://www.frontiersin.org/files/Articles/34845/fpsyg-04-00124-HTML/image_m/fpsyg-04-00124-g001.jpg =400x)
+![detailed](https://www.frontiersin.org/files/Articles/34845/fpsyg-04-00124-HTML/image_m/fpsyg-04-00124-g001.jpg)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -318,56 +149,28 @@ _____
 
 We need feature extraction methods and then combining methods
 
-![one](http://aishack.in/static/img/tut/conv-line-detection-horizontal-result.jpg =200x)
-![two](http://aishack.in/static/img/tut/conv-edge-detection-result.jpg =200x)
-![three](http://aishack.in/static/img/tut/conv-sobel-result.png =200x)
-![four](http://aishack.in/static/img/tut/conv-laplacian-result.png =200x)
+![one](http://aishack.in/static/img/tut/conv-line-detection-horizontal-result.jpg)
+![two](http://aishack.in/static/img/tut/conv-edge-detection-result.jpg)
+![three](http://aishack.in/static/img/tut/conv-sobel-result.png)
+![four](http://aishack.in/static/img/tut/conv-laplacian-result.png)
 
 Let's look at some code. 
 
 # Welcome Convolution - Feature Extraction
-![image](https://ujwlkarn.files.wordpress.com/2016/08/giphy.gif =400x)
+![image](https://ujwlkarn.files.wordpress.com/2016/08/giphy.gif)
 
 ## Combining these concepts
-![image](https://ujwlkarn.files.wordpress.com/2016/08/conv_all.png =500x)
+![image](https://ujwlkarn.files.wordpress.com/2016/08/conv_all.png)
 
 Closer Look
 
-![image](https://ujwlkarn.files.wordpress.com/2016/08/screen-shot-2016-08-06-at-12-45-35-pm.png =500x)
+![image](https://ujwlkarn.files.wordpress.com/2016/08/screen-shot-2016-08-06-at-12-45-35-pm.png)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 # Concepts
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -388,42 +191,13 @@ Closer Look
 ## Compile/Fit/Optimize
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## What do we gain and what do we lose?
 
 ![5-3 Convolution Small.gif](images/5-3 Convolution Small.gif)
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -432,41 +206,14 @@ Closer Look
 ![Receptive Field Small.gif](images/Receptive Field Small.gif)
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 ## How many layers would we need to move from 400x400 image to 100 numbers? 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
@@ -475,40 +222,12 @@ Closer Look
 ![MaxPool Small.gif](images/MaxPool Small.gif)
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 ## Let's build a network!
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -517,43 +236,14 @@ Closer Look
 ## 3x3 is a lie! How convolution actually works? 
 
 ![convolution.gif](images/convolution.gif)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 ## The reason for dimensional reductionality!
 
 But what about z (or channels)?
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ## Welcome to 1x1 convolution?
@@ -656,7 +346,7 @@ Harry | 28
 Me | 24 :D
 You | 30 XD
 
-![](https://www.irishtimes.com/polopoly_fs/1.3170107.1501253408!/image/image.jpg_gen/derivatives/box_620_330/image.jpg =300x)
+![](https://www.irishtimes.com/polopoly_fs/1.3170107.1501253408!/image/image.jpg_gen/derivatives/box_620_330/image.jpg)
 
 $x_2^2 = f(Harry)$
 <br>
