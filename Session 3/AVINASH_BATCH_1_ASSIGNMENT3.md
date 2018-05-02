@@ -2,9 +2,9 @@
 ##### This markdown file contains Assignment-3 of Session 3  
 
 **What are activation functions and why do we need them?**
-Activation functions are important components of neural networks. Both in Perceptron models or Neural Network models, they take in some data, add non linearity to the data before giving the output to the next layer. The terms linear and non-linear can be intuitively understood by considering them as straight lines and non-straight curves. Without the activation functions, the perceptron models that take weighted sum of inputs in each layer or the convolution models that use kernels by element wise multiplication, are just a stack of layers that perform linear regression and can detect or model data that is linearly detectable or separable.
+Activation functions are important components of neural networks. Both in Perceptron models or Neural Network models, they take in some data, add non linearity to the data before giving the output to the next layer. The terms linear and non-linear can be intuitively understood by considering them as straight lines and non-straight curves. Without the activation functions, the perceptron models that take weighted sum of inputs in each layer or the convolution models that use kernels by element wise multiplication, are just a stack of layers that perform linear regression and can only detect or model data that is linearly detectable or separable.
 
-Now that we know why we need to use activation functions, let's see which activation function is giving the best results. There are many activation functions that are used.Let's see how some of the most used activation functions work.
+There are many activation functions that are used.Let's see how some of the most used activation functions work.
 
 **Sigmoid Function**
 
@@ -14,7 +14,7 @@ Sigmoid is one of the most used activation functions. Given a value to it, it sq
 **Rectified Linear Unit** 
 
 As shown in the plot, ReLu is a simple activation function. It takes some numerical input **z** and outputs **0** if z is negative, **z** otherwise. Though ReLu is not entirely linear, we can see that it has a linear form for values that are positive. <br>
-ReLu is easy to compute. It's curve is horizontal for values below 0 and incrementing linearly for values above 0. What this means is that, during the forward pass, the neurons that are fed with negative data will be set to 0. This might seem like a problem but considering the fact that the initial weights are random,could be negative and should be vastly optimized to minimize the cost, it is ok to have some neurons that are set to 0. This induces some kind of sparsity into the network.
+ReLu is easy to compute. Its curve is horizontal for values below 0 and incrementing linearly for values above 0. What this means is that, during the forward pass, the neurons that are fed with negative data will be set to 0. This might seem like a problem but considering the fact that the initial weights are random,could be negative and should be vastly optimized to minimize the cost, it is ok to have some neurons that are set to 0. This induces some kind of sparsity into the network.
 <br>
 But the same reasons that make ReLu simple and easy to implement also lead to some drawbacks. Consider the horizontal line again for values below 0. During the backpropagation phase, the gradient for this region will be 0 which means the neurons with this gradient will never be updated. There are other variants of ReLu that try to fix this problem.
 
@@ -75,6 +75,14 @@ Dropout is one of the ways of applying regularization. Neural networks are unive
 <p align="center"><img src="https://mlblr.com/images/dropout.gif"/></p>
 
 
-Dropout when applied on a layer, disables/deactivates some of the layer's neurons. The extent to which the neurons are deactivated depends on the **p** value assigned to the dropout. For example, when p = 0.5, half of the neurons from that layer are shut off. These neurons are randomly chosen which means each time a different set of neurons are selected depending on the amount of dropout. By deactivating a set of neurons from a layer, we are not only lessening the learning by some amount but also forcing the rest of the neurons to learn better. Both of these contribute to better testing accuracy. 
+Dropout when applied on a layer, disables/deactivates some of the layer's neurons. The extent to which the neurons are deactivated depends on the **p** value assigned to the dropout. For example, when p = 0.5, half of the neurons from that layer are shut off. These neurons are randomly chosen which means each time a different set of neurons are selected depending on the amount of dropout. By deactivating a set of neurons from a layer, we are not only lessening the learning by some amount but also forcing the rest of the neurons to learn better. Both of these contribute to better testing accuracy. Though implementing dropout has shown improvements in accuracy, it can lead to underfitting which is the opposite of overfitting.
+
+<br>
+
+**Label Smoothing**
+
+When building a model to perform a classification task, the model gives a probability score for each of the classes that it was trained on. In a binary classifier for example, we would want the model to predict 1 for the correct class and 0 for the other. This might be possible to achieve during training since the ground truth values are available. But there are few problems here. Though it does well on training data with ground truths availability, it leads to overfitting and doesnt generalize for unseen data. The other problem is, mainly in classification tasks, where the data is labelled by humans, there is a chance of a sample being wrongly labelled. Trying to train a model on such data with full confidence will lead to bad results. Though we would want the model to classify an image **i** from class **a** with 100% confidence as class **a**, this is not how the model gives its outputs. 
+
+This calls for a need for the model to be less confident. Instead of expecting the model to predict the correct class with a probability score of 1 or close to 1, we can set the confidence to be 0.9 or 0.8 for the correct class and some higher value than 0 for the incorrect class.  Allowing the model to be less confident about the labels it predicts is called label smoothing. This too is a form of regularization since it helps in avoiding overfitting.
 
 
